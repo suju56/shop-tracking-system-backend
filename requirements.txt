@@ -6,3 +6,4 @@ Pillow==9.3.0
 PyJWT==2.6.0
 pytz==2022.6
 sqlparse==0.4.3
+tzdata==2022.6
